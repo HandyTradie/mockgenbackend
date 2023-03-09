@@ -1,0 +1,19 @@
+{
+  "name": "packages/packageJhs2MathematicsEcoachJson.json",
+  "bucket": "quizmine-dev.appspot.com",
+  "contentType": "application/json",
+  "metageneration": 1,
+  "generation": 1645228906960,
+  "storageClass": "STANDARD",
+  "etag": "someETag",
+  "contentDisposition": "inline",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "9ac7836a-a5b2-40cf-9ed2-209edb42654d"
+  ],
+  "timeCreated": "2022-02-19T00:01:46.959Z",
+  "updated": "2022-02-19T00:01:46.976Z",
+  "size": 1321332,
+  "md5Hash": "itXZ6uKG5dnIOembvWoP8g==",
+  "crc32c": "2072920706"
+}
